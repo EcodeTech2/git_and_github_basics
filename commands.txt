@@ -9,3 +9,8 @@ checkout
 merge
 remote
 push
+
+Untracked (U)
+Staged (A)
+Unmodified
+Modified (M)
