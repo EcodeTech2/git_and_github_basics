@@ -1,0 +1,11 @@
+init
+status
+add
+commit
+log
+diff
+branch
+checkout
+merge
+remote
+push
