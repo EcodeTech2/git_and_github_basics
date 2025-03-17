@@ -9,6 +9,7 @@ checkout
 merge
 remote
 push
+pull
 
 Untracked (U)
 Staged (A)
