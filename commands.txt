@@ -10,6 +10,7 @@ merge
 remote
 push
 pull
+clone
 
 Untracked (U)
 Staged (A)
